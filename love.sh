@@ -1,4 +1,4 @@
-cp .bashrc love.py love.py ~/
+cp .bashrc love.py love2.py ~/
 clear
 read -p 'You want to some suprise :' y
 
